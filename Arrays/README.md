@@ -44,11 +44,11 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 - [X] Find Maximum
 - [X] Find Minimum
-- [ ] Find Second Largest
-- [ ] Find Second Smallest
-- [ ] Check if Array is Sorted
-- [ ] Reverse Array
-- [ ] Find Missing Number
+- [X] Find Second Largest
+- [X] Find Second Smallest
+- [X] Check if Array is Sorted
+- [X] Reverse Array
+- [X] Find Missing Number
 - [ ] Find Duplicate
 - [ ] Count Frequency
 - [X] Count Even / Odd
