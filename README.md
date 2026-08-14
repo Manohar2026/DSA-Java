@@ -10,7 +10,7 @@ My goal is not just to memorize solutions, but to understand the patterns, logic
 - [x] Array basics
 - [x] Traversal
 - [x] Searching
-- [-] Basic array problems
+- [ ] Basic array problems
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Prefix Sum
@@ -74,9 +74,9 @@ Understand DSA patterns → Solve problems independently → Improve problem-sol
 
 **Language:** Java
 
-**Problems Solved:**
- 🟢 Easy       0
- 🟡 Medium     0
- 🔴 Hard       0
-─────────────────
- Total         0
+| Difficulty | Solved |
+|------------|-------:|
+| 🟢 Easy | 0 |
+| 🟠 Medium | 0 |
+| 🔴 Hard | 0 |
+| **Total** | **0** |

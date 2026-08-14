@@ -187,12 +187,12 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 **Current Section:** Array Operations
 
-**Problems Solved:**
- 🟢 Easy       0
- 🟡 Medium     0
- 🔴 Hard       0
-─────────────────
- Total         0
+| Difficulty | Solved |
+|------------|-------:|
+| 🟢 Easy | 0 |
+| 🟠 Medium | 0 |
+| 🔴 Hard | 0 |
+| **Total** | **0** |
 
 ---
 
