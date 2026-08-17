@@ -8,21 +8,21 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 - [X] Traversal
 - [X] Linear Search
-- [ ] Insertion
-- [ ] Deletion
-- [ ] Updating
-- [ ] Reversing
-- [ ] Rotating
-- [ ] Copying
+- [X] Insertion
+- [X] Deletion
+- [X] Updating
+- [X] Reversing
+- [X] Rotating
+- [X] Copying
 - [ ] Merging
 
 ---
 
 ## 🔢 2. Sorting
 
-- [ ] Bubble Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort
+- [X] Bubble Sort
+- [X] Selection Sort
+- [X] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Counting Sort
@@ -55,7 +55,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 - [X] Sum of Elements
 - [ ] Remove Duplicates
 - [ ] Move Zeroes
-- [ ] Rotate Array
+- [X] Rotate Array
 - [ ] Find Unique Element
 - [ ] Find Majority Element
 
