@@ -33,7 +33,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 ## 🔍 3. Searching
 
 - [X] Linear Search
-- [ ] Binary Search
+- [X] Binary Search
 - [ ] Search in Sorted Array
 - [ ] First Occurrence
 - [ ] Last Occurrence
