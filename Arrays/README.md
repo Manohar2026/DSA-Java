@@ -14,7 +14,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 - [X] Reversing
 - [X] Rotating
 - [X] Copying
-- [ ] Merging
+- [X] Merging
 
 ---
 
@@ -34,7 +34,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 - [X] Linear Search
 - [X] Binary Search
-- [ ] Search in Sorted Array
+- [X] Search in Sorted Array
 - [ ] First Occurrence
 - [ ] Last Occurrence
 
@@ -53,8 +53,8 @@ This section covers array operations, sorting, searching, basic problems, and im
 - [ ] Count Frequency
 - [X] Count Even / Odd
 - [X] Sum of Elements
-- [ ] Remove Duplicates
-- [ ] Move Zeroes
+- [X] Remove Duplicates
+- [X] Move Zeroes
 - [X] Rotate Array
 - [ ] Find Unique Element
 - [ ] Find Majority Element
