@@ -1,4 +1,4 @@
-package Arrays.Basics;
+package Arrays.Sorting;
 
 public class BubbleSortAlgo {
 
