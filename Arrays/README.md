@@ -75,9 +75,9 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 ## 5.2 Two Pointers
 
-- [ ] Valid Palindrome — 🟢 Easy
+- [X] Valid Palindrome — 🟢 Easy
 - [X] Remove Duplicates from Sorted Array — 🟢 Easy
-- [ ] Move Zeroes — 🟢 Easy
+- [X] Move Zeroes — 🟢 Easy
 - [ ] Two Sum II - Input Array Is Sorted — 🟠 Medium
 - [ ] 3Sum — 🟠 Medium
 - [ ] Container With Most Water — 🟠 Medium
@@ -189,7 +189,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 | Difficulty | Solved |
 |------------|-------:|
-| 🟢 Easy | 0 |
+| 🟢 Easy | 3 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 | **Total** | **0** |
