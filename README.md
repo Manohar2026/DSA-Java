@@ -76,7 +76,7 @@ Understand DSA patterns → Solve problems independently → Improve problem-sol
 
 | Difficulty | Solved |
 |------------|-------:|
-| 🟢 Easy | 0 |
-| 🟠 Medium | 0 |
+| 🟢 Easy | 3 |
+| 🟠 Medium | 1 |
 | 🔴 Hard | 0 |
 | **Total** | **0** |
