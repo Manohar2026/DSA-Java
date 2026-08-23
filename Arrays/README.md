@@ -76,7 +76,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 ## 5.2 Two Pointers
 
 - [ ] Valid Palindrome — 🟢 Easy
-- [ ] Remove Duplicates from Sorted Array — 🟢 Easy
+- [X] Remove Duplicates from Sorted Array — 🟢 Easy
 - [ ] Move Zeroes — 🟢 Easy
 - [ ] Two Sum II - Input Array Is Sorted — 🟠 Medium
 - [ ] 3Sum — 🟠 Medium
