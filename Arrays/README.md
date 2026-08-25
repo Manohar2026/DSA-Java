@@ -79,7 +79,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 - [X] Remove Duplicates from Sorted Array — 🟢 Easy
 - [X] Move Zeroes — 🟢 Easy
 - [X] Two Sum II - Input Array Is Sorted — 🟠 Medium
-- [ ] 3Sum — 🟠 Medium
+- [X] 3Sum — 🟠 Medium
 - [ ] Container With Most Water — 🟠 Medium
 - [ ] Trapping Rain Water — 🔴 Hard
 
@@ -190,7 +190,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 | Difficulty | Solved |
 |------------|-------:|
 | 🟢 Easy | 3 |
-| 🟠 Medium | 1 |
+| 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 | **Total** | **0** |
 
