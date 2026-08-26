@@ -126,7 +126,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 ## 5.7 Sorting + Two Pointers
 
-- [ ] Squares of a Sorted Array — 🟢 Easy
+- [X] Squares of a Sorted Array — 🟢 Easy
 - [ ] Merge Sorted Array — 🟢 Easy
 - [ ] 3Sum — 🟠 Medium
 - [ ] 3Sum Closest — 🟠 Medium
