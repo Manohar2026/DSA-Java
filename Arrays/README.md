@@ -136,7 +136,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 ## 5.8 Binary Search Patterns
 
-- [ ] Binary Search — 🟢 Easy
+- [X] Binary Search — 🟢 Easy
 - [ ] Search Insert Position — 🟢 Easy
 - [ ] Find First and Last Position of Element in Sorted Array — 🟠 Medium
 - [ ] Search in Rotated Sorted Array — 🟠 Medium
