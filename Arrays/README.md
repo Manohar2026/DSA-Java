@@ -189,7 +189,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 | Difficulty | Solved |
 |------------|-------:|
-| 🟢 Easy | 3 |
+| 🟢 Easy | 4 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 | **Total** | **0** |
