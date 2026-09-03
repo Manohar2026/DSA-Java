@@ -35,8 +35,8 @@ This section covers array operations, sorting, searching, basic problems, and im
 - [X] Linear Search
 - [X] Binary Search
 - [X] Search in Sorted Array
-- [ ] First Occurrence
-- [ ] Last Occurrence
+- [X] First Occurrence
+- [X] Last Occurrence
 
 ---
 
@@ -65,9 +65,9 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 ## 5.1 Hashing / Frequency Counting
 
-- [ ] Contains Duplicate — 🟢 Easy
+- [X] Contains Duplicate — 🟢 Easy
 - [ ] Two Sum — 🟢 Easy
-- [ ] Majority Element — 🟢 Easy
+- [X] Majority Element — 🟢 Easy
 - [ ] Group Anagrams — 🟠 Medium
 - [ ] Longest Consecutive Sequence — 🟠 Medium
 
@@ -189,7 +189,7 @@ This section covers array operations, sorting, searching, basic problems, and im
 
 | Difficulty | Solved |
 |------------|-------:|
-| 🟢 Easy | 4 |
+| 🟢 Easy | 6 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 | **Total** | **0** |

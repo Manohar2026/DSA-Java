@@ -10,7 +10,7 @@ My goal is not just to memorize solutions, but to understand the patterns, logic
 - [x] Array basics
 - [x] Traversal
 - [x] Searching
-- [ ] Basic array problems
+- [X] Basic array problems
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Prefix Sum
@@ -18,10 +18,10 @@ My goal is not just to memorize solutions, but to understand the patterns, logic
 - [ ] Binary Search
 
 ### 2. Hashing
-- [ ] Hashing Basics
+- [X] Hashing Basics
 - [ ] HashMap
 - [ ] HashSet
-- [ ] Frequency Counting
+- [X] Frequency Counting
 - [ ] Hashing Patterns
 
 ### 3. Strings
@@ -76,7 +76,7 @@ Understand DSA patterns → Solve problems independently → Improve problem-sol
 
 | Difficulty | Solved |
 |------------|-------:|
-| 🟢 Easy | 3 |
+| 🟢 Easy | 4 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 | **Total** | **0** |

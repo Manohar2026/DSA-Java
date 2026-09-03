@@ -1,4 +1,4 @@
-package Arrays.Searching;
+package Arrays.Searching.BinarySearch;
 
 public class BinarySearch {
 
