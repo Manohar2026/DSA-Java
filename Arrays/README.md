@@ -50,14 +50,14 @@ This section covers array operations, sorting, searching, basic problems, and im
 - [X] Reverse Array
 - [X] Find Missing Number
 - [X] Find Duplicate
-- [ ] Count Frequency
+- [X] Count Frequency
 - [X] Count Even / Odd
 - [X] Sum of Elements
 - [X] Remove Duplicates
 - [X] Move Zeroes
 - [X] Rotate Array
-- [ ] Find Unique Element
-- [ ] Find Majority Element
+- [X] Find Unique Element
+- [X] Find Majority Element
 
 ---
 
